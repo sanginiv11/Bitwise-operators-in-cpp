@@ -12,3 +12,4 @@ The program demonstrates how to set and reset a specific bit in an integer using
 - To "reset a bit", '(number & (~(1 << bitPosition)))' creates a mask with 0 at the target bit and 1s elsewhere. The bitwise AND clears only that bit, keeping others unchanged.
 
 Conclusion: Both programs show how to perform low-level operations in C++ using bitwise operators. Basic bitwise operations like AND, OR, XOR, NOT, and shifts are displayed in the first. The second uses these ideas to set and reset particular bits. They offer a comprehensive grasp of how bitwise logic can be effectively used to manipulate binary data.
+
