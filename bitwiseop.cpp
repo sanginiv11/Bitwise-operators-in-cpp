@@ -20,3 +20,10 @@ cout<<"Right Shift: "<<right_shift<<endl;
 
 return 0;
 }
+/*OUTPUT
+AND: 1
+OR: 7
+XOR: 6
+NOT a: -6
+Left Shift: 20
+Right Shift: 2 */
